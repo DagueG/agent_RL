@@ -1,0 +1,25 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Artefacts d'entraînement
+*.npy
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.pth
+*.png
+*.zip
+logs/

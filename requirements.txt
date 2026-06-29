@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3
+matplotlib
+torch
+tensorboard
+notebook
+ipykernel
