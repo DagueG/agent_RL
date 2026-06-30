@@ -1,7 +1,13 @@
-gymnasium
-stable-baselines3
+gymnasium[box2d]
+numpy
 matplotlib
 torch
+stable-baselines3
 tensorboard
 notebook
 ipykernel
+fastapi
+uvicorn
+streamlit
+pandas
+moviepy
